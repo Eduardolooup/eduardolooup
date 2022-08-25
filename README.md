@@ -1,3 +1,5 @@
+<img src="https://cdn.discordapp.com/attachments/847119430054838332/1012371334325616681/cover-image.png"/>
+
 ## Hi, I'm Eduardo, Full Stack Developer and Founder of Looup.me! 👋
 ### My Github stats
   <div align="center">
