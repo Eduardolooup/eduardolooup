@@ -39,4 +39,4 @@
 
 ##
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,py,php,laravel,git,aws)](https://skillicons.dev)
