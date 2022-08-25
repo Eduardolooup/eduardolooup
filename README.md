@@ -29,13 +29,15 @@
 ##
   
 ### My Projects
+
+#### - Looup.me
+  Looup é uma startup que desenvolve cartões de visita digitais e eletrônicos, com as tecnologias NFC / QR Code, fornece para seus clientes uma nova forma de criar ou melhorar suas conexões.
+  
+  <img height src="https://cdn.discordapp.com/attachments/847119430054838332/1012401695776583780/1.png"/>
   
 #### - Atentai.com
   Atentai é uma plataforma de monitoramento remoto, conectando e gerenciando todos os seus equipamentos, gerando relatórios, insights e análise de dados em tempo real em um sistema Multiplataforma.
   
   <img height="300em" width="300em" src="https://cdn.discordapp.com/attachments/847119430054838332/1012396604784922665/unknown.png"/>
 
-#### - Looup.me
-  Looup é uma startup que desenvolve cartões de visita digitais e eletrônicos, com as tecnologias NFC / QR Code, fornece para seus clientes uma nova forma de criar ou melhorar suas conexões.
-  
-  <img height src="https://cdn.discordapp.com/attachments/847119430054838332/1012401695776583780/1.png"/>
+
