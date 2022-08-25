@@ -37,5 +37,5 @@
 
 #### - Looup.me
   Looup é uma startup 
-  <img height="480px" width="180px" src="https://cdn.discordapp.com/attachments/847119430054838332/1012400450512887850/1.png"/>
+  <img src="https://cdn.discordapp.com/attachments/847119430054838332/1012400450512887850/1.png"/>
 ##
