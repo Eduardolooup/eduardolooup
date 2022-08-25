@@ -1,15 +1,11 @@
-<div style="display: inline_block"><br>
-  <img align="right" alt="Eduardolooup-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/847119430054838332/1012371332710793256/profile-pic_2.png?width=676&height=676">
-</div>
-
 ### Hi, I'm Eduardo, Full Stack Developer and Founder of Looup.me!
 
 ##
 
 <div align="center">
   <a href="https://github.com/eduardolooup">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=eduardolooup&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolooup&layout=compact&langs_count=7&theme=graywhite"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduardolooup&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardolooup&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
   
 ##
