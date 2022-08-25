@@ -30,8 +30,12 @@
   
 ### My Projects
   
-#- Atentai.com
-
-#- Looup.me
+#### - Atentai.com
+  Atentai é uma plataforma de monitoramento remoto, conectando e gerenciando todos os seus equipamentos, gerando relatórios, insights e análise de dados em tempo real em um sistema Multiplataforma.
   
+  <img height="300em" width="300em" src="https://cdn.discordapp.com/attachments/847119430054838332/1012396604784922665/unknown.png"/>
+
+#### - Looup.me
+  Looup é uma startup 
+  <img height="480px" width="180px" src="https://cdn.discordapp.com/attachments/847119430054838332/1012400450512887850/1.png"/>
 ##
