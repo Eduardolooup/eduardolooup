@@ -1,5 +1,5 @@
 ## Hi, I'm Eduardo, Full Stack Developer and Founder of Looup.me!
-
+### My Github stats
   <div align="center">
   <a href="https://github.com/eduardolooup">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=eduardolooup&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
@@ -7,10 +7,14 @@
   </div>
   
 ##
+
+### My Skills
   
 [![My Skills](https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,py,php,mysql,laravel,git,aws)](https://skillicons.dev)
 
 ##
+
+### My Media Social
 
 <div> 
     <a href="https://www.youtube.com/channel/UCx-Ti7VCz-eYh1QQl7uKL-w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
