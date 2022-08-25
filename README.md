@@ -9,9 +9,8 @@
 </div>
   
 ##
-  
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,py,php,laravel,git,aws)](https://skillicons.dev)
 <div style="display: inline_block"><br>
-  [![My Skills](https://skillicons.dev/icons?i=figma,html,css,bootstrap,js,py,php,laravel,git,aws)](https://skillicons.dev)
   <img align="right" alt="Eduardolooup-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/847119430054838332/1012371332710793256/profile-pic_2.png?width=676&height=676">
 </div>
 
