@@ -30,8 +30,8 @@
   
 ### My Projects
   
-- ATENTAI.COM
+#- Atentai.com
 
-- LOOUP.ME
+#- Looup.me
   
 ##
