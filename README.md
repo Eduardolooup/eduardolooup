@@ -1,4 +1,4 @@
-## Hi, I'm Eduardo, Full Stack Developer and Founder of Looup.me!
+## Hi, I'm Eduardo, Full Stack Developer and Founder of Looup.me! 👋
 ### My Github stats
   <div align="center">
   <a href="https://github.com/eduardolooup">
