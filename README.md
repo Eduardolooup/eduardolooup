@@ -36,6 +36,7 @@
   <img height="300em" width="300em" src="https://cdn.discordapp.com/attachments/847119430054838332/1012396604784922665/unknown.png"/>
 
 #### - Looup.me
-  Looup é uma startup 
+  Looup é uma startup que desenvolve cartões de visita digitais e eletrônicos, com as tecnologias NFC / QR Code, fornece para seus clientes uma nova forma de criar ou melhorar suas conexões.
+  
   <img src="https://cdn.discordapp.com/attachments/847119430054838332/1012400450512887850/1.png"/>
 ##
