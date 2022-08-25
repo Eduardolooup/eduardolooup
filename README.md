@@ -20,6 +20,8 @@
   <img align="center" alt="Eduardolooup-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Eduardolooup-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Eduardolooup-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Eduardolooup-amazon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  
   <img align="right" alt="Eduardolooup-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/847119430054838332/1012371332710793256/profile-pic_2.png?width=676&height=676">
 </div>
 
