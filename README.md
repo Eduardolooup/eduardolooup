@@ -30,8 +30,15 @@
   
 ### My Projects
   
-<div>
-
+<div class="container">
+    <div class="row">
+        <div class="col-6">
+            AA
+        </div>
+        <div class="col-6">
+            Olá de novo
+        </div>
+    </div>
 </div>
   
 ##
