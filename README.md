@@ -1,7 +1,5 @@
 ## Hi, I'm Eduardo, Full Stack Developer and Founder of Looup.me! 👋 
-      <style>
-        .libutton {
-          display: flex;
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=eduardodesousabarbosa" style=".libutton{display: flex;
           flex-direction: column;
           justify-content: center;
           padding: 7px;
@@ -13,10 +11,7 @@
           height: 32px;
           border-radius: 16px;
           background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=eduardodesousabarbosa" target="_blank">Follow on LinkedIn</a>
+          font-family: "SF Pro Text", Helvetica, sans-serif;}" target="_blank">Follow on LinkedIn</a>
 ### My Github stats
   <div align="center">
   <a href="https://github.com/eduardolooup">
